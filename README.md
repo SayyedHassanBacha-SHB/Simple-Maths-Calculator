@@ -50,13 +50,10 @@ Simple-Maths-Calculator/
     ```bash
    git clone https://github.com/yourusername/simple-math-calculator.git
 
---------
 
 2. **Navigate to the project folder**
     ```bash
     cd simple-math-calculator
-
---------
 
 3. **Open index.html in your browser**
 
@@ -76,6 +73,6 @@ Simple-Maths-Calculator/
 ------------------------------------------------------------------------------------------------
 
 ## 👤 Author   
-**Author:** Sayyed Hassan Bacha   
+**Author:** Sayyed Hassan Bacha (SHB)  
 - GitHub: https://github.com/SayyedHassanBacha-SHB/Simple-Maths-Calculator   
 - Email: shbai.tech@gmail.com   
