@@ -2,7 +2,7 @@ let calculation = localStorage.getItem("lastCalculation") || "";
 // console.log(`Last calculation result : ${calculation} `);
 
 const paraElm = document.querySelector(".show-calculation");
-paraElm.innerText = `Last calculation result : ${calculation} `;
+paraElm.innerText = `${calculation}`|| 0;
 
 function appendtoCaculation(str){
     calculation += str;
