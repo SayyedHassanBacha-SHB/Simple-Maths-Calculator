@@ -62,7 +62,6 @@ Simple-Maths-Calculator/
 ## 🔮 Future Improvements
 - Replace eval() with a safer math expression parser
 - Add keyboard input support
-- Dark mode theme
 - Enhanced styling & animations
 
 ------------------------------------------------------------------------------------------------
